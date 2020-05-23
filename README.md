@@ -1,4 +1,6 @@
-# citinary
+<p align="center">
+    <b>Citinary </b>
+</p>
 
 We are a group of 4 engineering students with a passion for IA and machine learning overhaul, software development and we love discovering unusal locations. Please note that the Citinary project is still under development.
 
