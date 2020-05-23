@@ -2,7 +2,7 @@
     <b>Citinary </b>
 </p>
 
-We are a group of 4 engineering students with a passion for IA and machine learning overhaul, software development and we love discovering unusal locations. Please note that the Citinary project is still under development.
+We are a group of 4 engineering students with a passion for IA, machine learning overhaul, software development and we love discovering unusal locations. Please note that the Citinary project is still under development.
 
 Citinary started as an engineering school project and aims at providing a way for tourists to have a personalized and digitalized buttler that will assist them during their journey throught the magnificent city that is Paris, the city we will focus our efforts on in the short-term before thinking about expansion.
 
